@@ -1,4 +1,2 @@
-# Meraki Scripts
-
-## meraki_hex.py
-Creates a hexadecimal value used for DHCP option 119 - automatically configuring search domains on macOS.
+# This project has been moved to GitLab
+https://gitlab.com/Macfanatic/meraki_scripts
